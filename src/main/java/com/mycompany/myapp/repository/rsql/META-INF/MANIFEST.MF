@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Class-Path: liquibase-spatial-1.2.1.jar xnio-nio-3.3.6.Final.jar query
+ dsl-core-4.1.3.jar mysql-connector-java-5.1.40.jar javassist-3.21.0-G
+ A.jar jackson-datatype-jts-2.4.jar logstash-logback-encoder-4.8.jar s
+ pring-boot-starter-mail-1.5.1.RELEASE.jar mssql-jdbc-6.1.0.jre8.jar j
+ boss-annotations-api_1.2_spec-1.0.0.Final.jar jackson-annotations-2.8
+ .0.jar jackson-datatype-jsr310-2.8.6.jar jackson-core-asl-1.9.2.jar s
+ pring-boot-starter-1.5.1.RELEASE.jar jackson-core-2.8.6.jar azure-key
+ vault-0.9.3.jar jta-1.1.jar logback-classic-1.1.9.jar hibernate-entit
+ ymanager-5.2.7.Final.jar validation-api-1.1.0.Final.jar geronimo-jta_
+ 1.1_spec-1.1.1.jar jts-1.13.jar commons-io-2.5.jar bcprov-jdk15on-1.5
+ 1.jar spring-boot-starter-undertow-1.5.1.RELEASE.jar httpcore-4.4.6.j
+ ar jersey-client-1.13.jar spring-boot-devtools-1.5.1.RELEASE.jar unde
+ rtow-core-1.4.10.Final.jar springfox-core-2.6.1.jar metrics-jvm-3.1.2
+ .jar metrics-json-3.1.2.jar spring-data-jpa-1.11.0.RELEASE.jar undert
+ ow-websockets-jsr-1.4.10.Final.jar jcip-annotations-1.0.jar hibernate
+ -validator-5.3.4.Final.jar javax.el-3.0.0.jar adal4j-1.0.0.jar jackso
+ n-datatype-hppc-2.8.6.jar rsql-parser-2.1.0.jar jackson-datatype-json
+ -org-2.8.6.jar jboss-websocket-api_1.1_spec-1.1.0.Final.jar slf4j-api
+ -1.7.22.jar jsr305-1.3.9.jar springfox-swagger-common-2.6.1.jar jaxb-
+ impl-2.2.3-1.jar hibernate-spatial-5.2.7.Final.jar spring-cloud-sprin
+ g-service-connector-1.2.3.RELEASE.jar spring-aop-4.3.6.RELEASE.jar to
+ mcat-juli-8.5.11.jar springfox-bean-validators-2.6.1.jar spring-plugi
+ n-metadata-1.2.0.RELEASE.jar commons-lang3-3.5.jar mail-1.4.5.jar jso
+ n-20090211_1.jar metrics-core-3.1.2.jar spring-orm-4.3.6.RELEASE.jar 
+ metrics-annotation-3.1.2.jar spring-tx-4.3.6.RELEASE.jar metrics-heal
+ thchecks-3.1.2.jar spring-boot-starter-web-1.5.1.RELEASE.jar jackson-
+ mapper-asl-1.9.2.jar spring-aspects-4.3.6.RELEASE.jar guava-18.0.jar 
+ aopalliance-1.0.jar activation-1.1.jar spring-security-config-4.2.1.R
+ ELEASE.jar spring-boot-1.5.1.RELEASE.jar jersey-json-1.13.jar cache-a
+ pi-1.0.0.jar metrics-spring-3.1.3.jar jhipster-1.1.0.jar jettison-1.1
+ .jar metrics-servlets-3.1.2.jar spring-expression-4.3.6.RELEASE.jar a
+ ccessors-smart-1.1.jar spring-boot-starter-cloud-connectors-1.5.1.REL
+ EASE.jar jackson-databind-2.8.6.jar commons-lang-2.6.jar spring-plugi
+ n-core-1.2.0.RELEASE.jar spring-boot-autoconfigure-1.5.1.RELEASE.jar 
+ nimbus-jose-jwt-3.1.2.jar jackson-xc-1.9.2.jar poi-3.14.jar liquibase
+ -mssql-1.5.jar spring-context-support-4.3.6.RELEASE.jar azure-core-0.
+ 9.3.jar spring-security-web-4.2.1.RELEASE.jar hibernate-jpa-2.1-api-1
+ .0.0.Final.jar stax-api-1.0.1.jar jackson-datatype-hibernate5-2.8.6.j
+ ar aspectjweaver-1.8.9.jar lang-tag-1.4.jar h2-1.4.193.jar HikariCP-2
+ .6.0.jar commons-codec-1.10.jar logback-core-1.1.9.jar json-smart-2.2
+ .1.jar tomcat-jdbc-8.5.11.jar jersey-core-1.13.jar xnio-api-3.3.6.Fin
+ al.jar unbescape-1.1.0.RELEASE.jar hibernate-jcache-5.2.7.Final.jar j
+ boss-logging-3.3.0.Final.jar postgresql-9.4.1212.jre7.jar oauth2-oidc
+ -sdk-4.5.jar spring-cloud-heroku-connector-1.2.3.RELEASE.jar hibernat
+ e-core-5.2.7.Final.jar querydsl-jpa-4.1.3.jar spring-boot-starter-sec
+ urity-1.5.1.RELEASE.jar spring-jdbc-4.3.6.RELEASE.jar ognl-3.0.8.jar 
+ asm-5.0.3.jar antlr-2.7.7.jar spring-context-4.3.6.RELEASE.jar ehcach
+ e-3.2.0.jar spring-boot-starter-logging-1.5.1.RELEASE.jar spring-boot
+ -starter-aop-1.5.1.RELEASE.jar stax-api-1.0-2.jar jaxb-api-2.2.2.jar 
+ jandex-2.0.3.Final.jar jjwt-0.7.0.jar mapstruct-jdk8-1.1.0.Final.jar 
+ byte-buddy-1.6.0.jar spring-boot-configuration-processor-1.5.1.RELEAS
+ E.jar springfox-swagger2-2.6.1.jar spring-webmvc-4.3.6.RELEASE.jar ge
+ olatte-geom-1.0.6.jar jul-to-slf4j-1.7.22.jar hppc-0.7.1.jar bridge-m
+ ethod-annotation-1.13.jar gson-2.8.0.jar springfox-spring-web-2.6.1.j
+ ar snakeyaml-1.17.jar thymeleaf-2.1.5.RELEASE.jar jackson-jaxrs-1.9.2
+ .jar metrics-servlet-3.1.2.jar liquibase-slf4j-2.0.0.jar spring-boot-
+ actuator-1.5.1.RELEASE.jar log4j-over-slf4j-1.7.22.jar javax.inject-1
+ .jar javax.mail-1.5.6.jar jcl-over-slf4j-1.7.22.jar spring-core-4.3.6
+ .RELEASE.jar spring-security-core-4.2.1.RELEASE.jar undertow-servlet-
+ 1.4.10.Final.jar mysema-commons-lang-0.2.4.jar javax.servlet-api-3.1.
+ 0.jar spring-cloud-localconfig-connector-1.2.3.RELEASE.jar liquibase-
+ core-3.5.3.jar spring-cloud-cloudfoundry-connector-1.2.3.RELEASE.jar 
+ javax.transaction-api-1.2.jar spring-cloud-core-1.2.3.RELEASE.jar htt
+ pclient-4.5.2.jar spring-boot-starter-jdbc-1.5.1.RELEASE.jar spring-w
+ eb-4.3.6.RELEASE.jar spring-data-commons-1.13.0.RELEASE.jar spring-be
+ ans-4.3.6.RELEASE.jar dom4j-1.6.1.jar thymeleaf-layout-dialect-1.4.0.
+ jar springfox-spi-2.6.1.jar hibernate-commons-annotations-5.0.1.Final
+ .jar swagger-models-1.5.10.jar groovy-2.4.7.jar swagger-annotations-1
+ .5.10.jar spring-boot-loader-tools-1.5.1.RELEASE.jar spring-security-
+ data-4.2.1.RELEASE.jar springfox-schema-2.6.1.jar classmate-1.3.3.jar
+  android-json-0.0.20131108.vaadin1.jar thymeleaf-spring4-2.1.5.RELEAS
+ E.jar spring-boot-starter-thymeleaf-1.5.1.RELEASE.jar spring-boot-sta
+ rter-data-jpa-1.5.1.RELEASE.jar hibernate-envers-5.2.7.Final.jar
+Main-Class: 
+
